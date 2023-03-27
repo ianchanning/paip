@@ -1,3 +1,5 @@
+This is the lessons from [A Retrospective on PAIP](http://norvig.com/Lisp-retro.html), with page numbers that actually link to pages in the book. I'm using the OCR [PAIP.txt](https://github.com/norvig/paip-lisp/blob/main/PAIP.txt) as it contains magic `<a id="page-..."></a>` markers. All of the other 'cleaner' versions seem to 'clean' these out.
+
 # What Lessons are in PAIP?
 
 Here is my list of the 52 most important lessons in PAIP:
